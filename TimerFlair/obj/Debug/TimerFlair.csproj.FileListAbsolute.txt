@@ -1,0 +1,9 @@
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\bin\Debug\TimerFlair.exe.config
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\bin\Debug\TimerFlair.exe
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\bin\Debug\TimerFlair.pdb
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\obj\Debug\TimerFlair.csprojResolveAssemblyReference.cache
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\obj\Debug\TimerFlair.Form1.resources
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\obj\Debug\TimerFlair.Properties.Resources.resources
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\obj\Debug\TimerFlair.csproj.GenerateResource.Cache
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\obj\Debug\TimerFlair.exe
+c:\users\marc\documents\visual studio 2013\Projects\TimerFlair\TimerFlair\obj\Debug\TimerFlair.pdb
